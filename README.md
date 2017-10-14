@@ -11,7 +11,7 @@ Dishion, T. J., Forgatch, M. O., Chamberlain, P., & **Pelham III, W. E.** (2016)
 
 ----
 
-McIntyre, L. L., Pelham III, W. E., Kim, M., Dishion, T. J., Shaw, D. S., & Wilson, M. N. (2017). A brief measure of language skills at age three predicts special education use in middle childhood. *Journal of Pediatrics*, *181*, 189-194. [click here](pdfs/mcintyre-et-al-2017-jped.pdf).
+McIntyre, L. L., **Pelham III, W. E.,** Kim, M., Dishion, T. J., Shaw, D. S., & Wilson, M. N. (2017). A brief measure of language skills at age three predicts special education use in middle childhood. *Journal of Pediatrics*, *181*, 189-194. [click here](pdfs/mcintyre-et-al-2017-jped.pdf).
 
 ----
 
