@@ -1,7 +1,3 @@
-# papers
-
-----
-
 Pelham Jr., W. E., Fabiano, G. A., Waxmonsky, J. G., Gnagy, E. M., Greiner, A. R., **Pelham III, W. E.**, Coxe, S., Verley, J., Bhatia, I., Hart, K., Karch, K., Konijnendijk, E., Tresco, K., Nahum-Shani, I., & Murphy, S. A. (2016). Adaptive, Sequential, Behavioral, and Pharmacological Treatment of ADHD. *Journal of Clinical Child and Adolescent Psychology*, *45*(4), 396-415. [click here](pdfs/pelham-et-al-2016-jccap.pdf).
 
 ----
@@ -19,4 +15,4 @@ McIntyre, L. L., Pelham III, W. E., Kim, M., Dishion, T. J., Shaw, D. S., & Wils
 
 ----
 
-**Pelham III, W. E.**, Dishion, T. J., Tein, J. Y., Shaw, D. S., & Wilson, M. N. (2017). What doesn’t work for whom? Exploring heterogeneity in responsiveness to the Family Check-Up in early childhood using a mixture model approach. Prevention Science, online first, 1-12. [click here](pdfs/pelham-et-al-2017-prevsci.pdf).
+**Pelham III, W. E.**, Dishion, T. J., Tein, J. Y., Shaw, D. S., & Wilson, M. N. (2017). What doesn’t work for whom? Exploring heterogeneity in responsiveness to the Family Check-Up in early childhood using a mixture model approach. Prevention Science, *18*, 911-922. [click here](pdfs/pelham-et-al-2017-prevsci.pdf).
