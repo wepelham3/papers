@@ -21,9 +21,11 @@ McIntyre, L. L., **Pelham III, W. E.,** Kim, M., Dishion, T. J., Shaw, D. S., & 
 **Pelham III, W. E.**, Dishion, T. J., Tein, J. Y., Shaw, D. S., & Wilson, M. N. (2017). What doesn’t work for whom? Exploring heterogeneity in responsiveness to the Family Check-Up in early childhood using a mixture model approach. Prevention Science, *18*, 911-922.
 [click here](pdfs/pelham-et-al-2017-prevsci.pdf).
 
+- [Download](si/pelham-et-al-2017-prevsci-si.zip) supplementary material as zipfile.
+
 ----
 
 **Pelham III, W. E.**, & Dishion, T. J. (2018). Prospective prediction of arrests for driving under the influence from relationship patterns with family and friends in adolescence. Addictive Behaviors, *78*, 36-42.
 [click here](pdfs/pelham-dishion-2018-addbeh.pdf).
 
-- Supplementary material as zipfile. [download](si/pelham-dishion-2018-addbeh-si.zip).
+- [Download](si/pelham-dishion-2018-addbeh-si.zip) supplementary material as zipfile.
