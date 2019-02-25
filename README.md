@@ -39,3 +39,7 @@ Psychology researchers are often interested in mechanisms underlying how randomi
 [click here](pdfs/pelham_dishion-2018-addbeh.pdf). doi: 10.1016/j.addbeh.2017.10.004
 
 - [Download](si/pelham_dishion-2018-addbeh-si.zip) supplementary material as zipfile.
+
+----
+
+Zhao, X., Page, T. F., Altszuler, A. R., **Pelham III, W. E.**, Kipp, H., Gnagy, E. M., … Pelham, W. E. (2019). Family burden of raising a child with ADHD. *Journal of Abnormal Child Psychology*. [click here](pdfs/zhao_et_al-2019-jacp.pdf).
