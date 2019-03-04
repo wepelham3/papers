@@ -16,20 +16,26 @@ McIntyre, L. L., **Pelham III, W. E.,** Kim, M., Dishion, T. J., Shaw, D. S., & 
 
 **Pelham III, W. E.**, Dishion, T. J., Tein, J. Y., Shaw, D. S., & Wilson, M. N. (2017). [What doesn’t work for whom? Exploring heterogeneity in responsiveness to the Family Check-Up in early childhood using a mixture model approach](pdfs/pelham_et_al-2017-prevsci.pdf). *Prevention Science*, *18*, 911-922.
 
-- [Download](si/pelham_et_al-2017-prevsci-si.zip) supplementary material as zipfile.
+- [Download](si/pelham_et_al-2017-prevsci-si.zip) supplementary material.
 
 ----
 
 Valente, M. J., **Pelham III, W. E.**, Smyth, H., & MacKinnon, D. P. (2017). [Confounding in statistical mediation analysis: What it is and how to address it](pdfs/valente_et_al-2017-jcp.pdf). *Journal of Counseling Psychology*, *64*(6), 659–671.
 
-- [Download](si/valente_et_al-2017-jcp-si.zip) supplementary material as zipfile.
+- [Download](si/valente_et_al-2017-jcp-si.zip) supplementary material.
 
 ----
 
-**Pelham III, W. E.**, & Dishion, T. J. (2018). [Prospective prediction of arrests for driving under the influence from relationship patterns with family and friends in adolescence](pdfs/pelham_dishion-2018-addbeh.pdf). Addictive Behaviors, *78*, 36-42.
+**Pelham III, W. E.**, & Dishion, T. J. (2018). [Prospective prediction of arrests for driving under the influence from relationship patterns with family and friends in adolescence](pdfs/pelham_dishion-2018-addbeh.pdf). *Addictive Behaviors*, *78*, 36-42.
 
-- [Download](si/pelham_dishion-2018-addbeh-si.zip) supplementary material as zipfile.
+- [Download](si/pelham_dishion-2018-addbeh-si.zip) supplementary material.
 
 ----
 
 Zhao, X., Page, T. F., Altszuler, A. R., **Pelham III, W. E.**, Kipp, H., Gnagy, E. M., Coxe, S., Schatz, N. K., Merrill, B. M., Macphee, F. L., Pelham Jr., W. E. (2019). [Family burden of raising a child with ADHD](pdfs/zhao_et_al-2019-jacp.pdf). *Journal of Abnormal Child Psychology*.
+
+----
+
+**Pelham III, W. E.**, Gonzalez, O., Metcalf, S. A., Whicker, C. L., Scherer, E. A., Witkiewitz, K., Marsch, L. A., & Mackinnon, D. P. (2019). [Item response theory analysis of the Five Facet Mindfulness Questionnaire and its short forms](pdfs/pelham_iii_et_al-2019-mindfulness.pdf). *Mindfulness*.
+
+- [Download](si/pelham_iii_et_al-2019-mindfulness-si.zip) supplementary material.
