@@ -1,4 +1,4 @@
-Pelham Jr., W. E., Fabiano, G. A., Waxmonsky, J. G., Gnagy, E. M., Greiner, A. R., **Pelham III, W. E.**, Coxe, S., Verley, J., Bhatia, I., Hart, K., Karch, K., Konijnendijk, E., Tresco, K., Nahum-Shani, I., & Murphy, S. A. (2016). [Adaptive, Sequential, Behavioral, and Pharmacological Treatment of ADHD](pdfs/pelham_et_al-2016-jccap.pdf). *Journal of Clinical Child and Adolescent Psychology*, *45*(4), 396-415.
+Pelham Jr., W. E., Fabiano, G. A., Waxmonsky, J. G., Gnagy, E. M., Greiner, A. R., **Pelham III, W. E.**, Coxe, S., Verley, J., Bhatia, I., Hart, K., Karch, K., Konijnendijk, E., Tresco, K., Nahum-Shani, I., & Murphy, S. A. (2016). [Treatment sequencing for childhood ADHD: a multiple-randomization study of adaptive medication and behavioral interventions](pdfs/pelham_et_al-2016-jccap.pdf). *Journal of Clinical Child and Adolescent Psychology*, *45*(4), 396-415.
 
 ----
 
