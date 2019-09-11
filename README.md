@@ -39,3 +39,9 @@ Zhao, X., Page, T. F., Altszuler, A. R., **Pelham III, W. E.**, Kipp, H., Gnagy,
 **Pelham III, W. E.**, Gonzalez, O., Metcalf, S. A., Whicker, C. L., Scherer, E. A., Witkiewitz, K., Marsch, L. A., & Mackinnon, D. P. (2019). [Item response theory analysis of the Five Facet Mindfulness Questionnaire and its short forms](pdfs/pelham_iii_et_al-2019-mindfulness.pdf). *Mindfulness, 10,* 1615–1628.
 
 - [Download](si/pelham_iii_et_al-2019-mindfulness-si.zip) supplementary material.
+
+----
+
+Coles, E. K., **Pelham III, W. E.,** Fabiano. G. A., Gnagy, E. M., Burrows-MacLean, L., Wymbs, B. T., Chacko, A., Walker, K. S., Wymbs, F., Robb, J., Garefino, A., Hoffman, M. T., Massetti, G. M., Page, T. F., Waschbusch, D. A., Waxmonsky, J. G., & Pelham Jr., W. E. (2019). [Randomized trial of first-line behavioral intervention to reduce need for medication in children with ADHD](pdfs/coles_et_al-2019-jccap.pdf). *Journal of Clinical Child and Adolescent Psychology.* Available online.
+
+- [Download](si/coles_et_al-2019-jccap-si.zip) supplementary material.
