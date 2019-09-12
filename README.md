@@ -47,3 +47,9 @@ Zhao, X., Page, T. F., Altszuler, A. R., **Pelham III, W. E.**, Kipp, H., Gnagy,
 Coles, E. K., **Pelham III, W. E.,** Fabiano. G. A., Gnagy, E. M., Burrows-MacLean, L., Wymbs, B. T., Chacko, A., Walker, K. S., Wymbs, F., Robb, J., Garefino, A., Hoffman, M. T., Massetti, G. M., Page, T. F., Waschbusch, D. A., Waxmonsky, J. G., & Pelham Jr., W. E. (2019). [Randomized trial of first-line behavioral intervention to reduce need for medication in children with ADHD](pdfs/coles_et_al-2019-jccap.pdf). *Journal of Clinical Child and Adolescent Psychology.* Available online.
 
 - [Download](si/coles_et_al-2019-jccap-si.zip) supplementary material.
+
+----
+
+Waxmonsky, J. G., **Pelham III, W. E.,** Campaa, A., Waschbusch, D. A., Li, T., Marshall, R., Baboscai, L., Humphrey, H., Fallahazad, N., Swanson J. M., Hanc, T., & Pelham Jr., W.E. (2019). [A randomized, controlled trial of interventions for growth suppression associated with CNS stimulants in children with ADHD](pdfs/waxmonsky_et_al-2019-jaacap.pdf). *Journal of American Academy of Child & Adolescent Psychiatry.* Available online.
+
+- [Download](si/waxmonsky_et_al-2019-jaacap-si.zip) supplementary material.
