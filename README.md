@@ -34,6 +34,8 @@ Valente, M. J., **Pelham III, W. E.**, Smyth, H., & MacKinnon, D. P. (2017). [Co
 
 Zhao, X., Page, T. F., Altszuler, A. R., **Pelham III, W. E.**, Kipp, H., Gnagy, E. M., Coxe, S., Schatz, N. K., Merrill, B. M., Macphee, F. L., Pelham Jr., W. E. (2019). [Family burden of raising a child with ADHD](pdfs/zhao_et_al-2019-jacp.pdf). *Journal of Abnormal Child Psychology, 47,* 1327–1338.
 
+- [Download](si/zhao_et_al-2019-jacp-si.zip) supplementary material.
+
 ----
 
 **Pelham III, W. E.**, Gonzalez, O., Metcalf, S. A., Whicker, C. L., Scherer, E. A., Witkiewitz, K., Marsch, L. A., & Mackinnon, D. P. (2019). [Item response theory analysis of the Five Facet Mindfulness Questionnaire and its short forms](pdfs/pelham_iii_et_al-2019-mindfulness.pdf). *Mindfulness, 10,* 1615–1628.
