@@ -12,11 +12,15 @@ Coles, E. K., **Pelham III, W. E.,** Fabiano. G. A., Gnagy, E. M., Burrows-MacLe
 
 - [Download](si/coles_et_al-2019-jccap-si.zip) supplementary material.
 
----
+----
+
+**Pelham III, W. E.,** Page, T. F., Altszuler, A., Gnagy, E. M., Molina, B. S. G., Pelham Jr., W. E. (accepted pending minor revisions). [The long-term financial outcome of children diagnosed with ADHD](pdfs/pelham_et_al-2019-jccp.pdf). *Journal of Consulting and Clinical Psychology.*
+
+----
 
 **Pelham III, W. E.,** Gonzalez, O., Metcalf, S. A., Whicker, C. L., Witkiewitz, K. A., Marsch, L. A., & Mackinnon, D. P. (in press). [Evaluating the factor structure of the individual facets of the Five Facet Mindfulness Questionnaire](pdfs/pelham_et_al-2019-mindfulness_fa.pdf). *Mindfulness.*
 
----
+----
 
 
 **Pelham III, W. E.**, Gonzalez, O., Metcalf, S. A., Whicker, C. L., Scherer, E. A., Witkiewitz, K., Marsch, L. A., & Mackinnon, D. P. (2019). [Item response theory analysis of the Five Facet Mindfulness Questionnaire and its short forms](pdfs/pelham_et_al-2019-mindfulness_irt.pdf). *Mindfulness, 10,* 1615–1628.
