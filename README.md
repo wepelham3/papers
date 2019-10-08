@@ -18,7 +18,9 @@ Coles, E. K., **Pelham III, W. E.,** Fabiano. G. A., Gnagy, E. M., Burrows-MacLe
 
 ----
 
-**Pelham III, W. E.,** Gonzalez, O., Metcalf, S. A., Whicker, C. L., Witkiewitz, K. A., Marsch, L. A., & Mackinnon, D. P. (in press). [Evaluating the factor structure of the individual facets of the Five Facet Mindfulness Questionnaire](pdfs/pelham_et_al-2019-mindfulness_fa.pdf). *Mindfulness.*
+**Pelham III, W. E.,** Gonzalez, O., Metcalf, S. A., Whicker, C. L., Witkiewitz, K. A., Marsch, L. A., & Mackinnon, D. P. (2019). [Evaluating the factor structure of the individual facets of the Five Facet Mindfulness Questionnaire](pdfs/pelham_et_al-2019-mindfulness_fa.pdf). *Mindfulness.* Available online.
+
+- [Download](si/pelham_et_al-2019-mindfulness_fa-si.zip) supplementary material.
 
 ----
 
