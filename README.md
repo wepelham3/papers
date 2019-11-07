@@ -1,4 +1,6 @@
-**Pelham III, W. E.,** Hanno, P., & Pardini, D. A. (in press). [Can machine learning improve screening for targeted violence and delinquency prevention programs?](pdfs/pelham_et_al-2019-prevsci.pdf). *Prevention Science.*
+**Pelham III, W. E.,** Hanno, P., & Pardini, D. A. (2019). [Can machine learning improve screening for targeted violence and delinquency prevention programs?](pdfs/pelham_et_al-2019-prevsci.pdf). *Prevention Science.* Available online.
+
+- [Download](si/pelham_et_al-2019-prevsci-si.zip) supplementary material.
 
 ----
 
