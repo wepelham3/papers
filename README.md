@@ -16,11 +16,11 @@ Coles, E. K., **Pelham III, W. E.,** Fabiano. G. A., Gnagy, E. M., Burrows-MacLe
 
 ----
 
-**Pelham III, W. E.,** Page, T. F., Altszuler, A., Gnagy, E. M., Molina, B. S. G., Pelham Jr., W. E. (accepted pending minor revisions). [The long-term financial outcome of children diagnosed with ADHD](pdfs/pelham_et_al-2019-jccp.pdf). *Journal of Consulting and Clinical Psychology.*
+**Pelham III, W. E.,** Page, T. F., Altszuler, A., Gnagy, E. M., Molina, B. S. G., Pelham Jr., W. E. (in press). [The long-term financial outcome of children diagnosed with ADHD](pdfs/pelham_et_al-2019-jccp.pdf). *Journal of Consulting and Clinical Psychology.*
 
 ----
 
-**Pelham III, W. E.,** Gonzalez, O., Metcalf, S. A., Whicker, C. L., Witkiewitz, K. A., Marsch, L. A., & Mackinnon, D. P. (2019). [Evaluating the factor structure of the individual facets of the Five Facet Mindfulness Questionnaire](pdfs/pelham_et_al-2019-mindfulness_fa.pdf). *Mindfulness.* Available online.
+**Pelham III, W. E.,** Gonzalez, O., Metcalf, S. A., Whicker, C. L., Witkiewitz, K. A., Marsch, L. A., & Mackinnon, D. P. (2019). [Evaluating the factor structure of the individual facets of the Five Facet Mindfulness Questionnaire](pdfs/pelham_et_al-2019-mindfulness_fa.pdf). *Mindfulness, 10,* 2629–2646.
 
 - [Download](si/pelham_et_al-2019-mindfulness_fa-si.zip) supplementary material.
 
