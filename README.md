@@ -16,7 +16,7 @@ Coles, E. K., **Pelham III, W. E.,** Fabiano. G. A., Gnagy, E. M., Burrows-MacLe
 
 ----
 
-**Pelham III, W. E.,** Page, T. F., Altszuler, A., Gnagy, E. M., Molina, B. S. G., Pelham Jr., W. E. (in press). [The long-term financial outcome of children diagnosed with ADHD](pdfs/pelham_et_al-2019-jccp.pdf). *Journal of Consulting and Clinical Psychology.*
+**Pelham III, W. E.,** Page, T. F., Altszuler, A., Gnagy, E. M., Molina, B. S. G., Pelham Jr., W. E. (2019). [The long-term financial outcome of children diagnosed with ADHD](pdfs/pelham_et_al-2019-jccp.pdf). *Journal of Consulting and Clinical Psychology.* Available online.
 
 ----
 
