@@ -1,3 +1,7 @@
+Kuklinski, M. R., Crowley, D. M., Dishion, T. J., Wilson, M. N., **Pelham III, W. E.,** & Shaw, D. S. (2020). [Supporting strategic investment in social programs: a cost analysis of the Family Check-Up](pdfs/kuklinski_et_al-2020-prevsci.pdf). *Prevention Science.* Available online.
+
+----
+
 **Pelham III, W. E.,** Hanno, P., & Pardini, D. A. (2019). [Can machine learning improve screening for targeted violence and delinquency prevention programs?](pdfs/pelham_et_al-2019-prevsci.pdf). *Prevention Science.* Available online.
 
 - [Download](si/pelham_et_al-2019-prevsci-si.zip) supplementary material.
