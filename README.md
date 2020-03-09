@@ -1,3 +1,7 @@
+Mazza, G. L, Smyth, H. L., Bissett, P. G., Canning, J. R., Eisenberg, I. W., Enkavi, A. Z., Gonzalez, O., Kim, S. J., Metcalf, S. A., Muniz, F., Onken, L., **Pelham III, W. E.,** Scherer, E. A., Stoeckel, L. E., Valente, M. J., Xie, H., Poldrack, R. A., Marsch, L. A., & Mackinnon, D. P. (2020). [Correlation database of 60 cross-disciplinary surveys and cognitive tasks assessing self-regulation](pdfs/mazza_et_al-2020-jpa.pdf). *Journal of Personality Assessment.* Available online.
+
+----
+
 Kuklinski, M. R., Crowley, D. M., Dishion, T. J., Wilson, M. N., **Pelham III, W. E.,** & Shaw, D. S. (2020). [Supporting strategic investment in social programs: a cost analysis of the Family Check-Up](pdfs/kuklinski_et_al-2020-prevsci.pdf). *Prevention Science.* Available online.
 
 ----
