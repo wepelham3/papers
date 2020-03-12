@@ -30,14 +30,14 @@ Coles, E. K., **Pelham III, W. E.,** Fabiano. G. A., Gnagy, E. M., Burrows-MacLe
 
 ----
 
-**Pelham III, W. E.,** Gonzalez, O., Metcalf, S. A., Whicker, C. L., Witkiewitz, K. A., Marsch, L. A., & Mackinnon, D. P. (2019). [Evaluating the factor structure of the individual facets of the Five Facet Mindfulness Questionnaire](pdfs/pelham_et_al-2019-mindfulness_fa.pdf). *Mindfulness, 10,* 2629–2646.
+**Pelham III, W. E.,** Gonzalez, O., Metcalf, S. A., Whicker, C. L., Witkiewitz, K. A., Marsch, L. A., & Mackinnon, D. P. (2019). [Evaluating the factor structure of the individual facets of the Five Facet Mindfulness Questionnaire](pdfs/pelham_et_al-2019-mindfulness_fa.pdf). *Mindfulness, 10*(12), 2629–2646.
 
 - [Download](si/pelham_et_al-2019-mindfulness_fa-si.zip) supplementary material.
 
 ----
 
 
-**Pelham III, W. E.**, Gonzalez, O., Metcalf, S. A., Whicker, C. L., Scherer, E. A., Witkiewitz, K., Marsch, L. A., & Mackinnon, D. P. (2019). [Item response theory analysis of the Five Facet Mindfulness Questionnaire and its short forms](pdfs/pelham_et_al-2019-mindfulness_irt.pdf). *Mindfulness, 10,* 1615–1628.
+**Pelham III, W. E.**, Gonzalez, O., Metcalf, S. A., Whicker, C. L., Scherer, E. A., Witkiewitz, K., Marsch, L. A., & Mackinnon, D. P. (2019). [Item response theory analysis of the Five Facet Mindfulness Questionnaire and its short forms](pdfs/pelham_et_al-2019-mindfulness_irt.pdf). *Mindfulness, 10*(8), 1615–1628.
 
 - [Download](si/pelham_et_al-2019-mindfulness_irt-si.zip) supplementary material.
 
