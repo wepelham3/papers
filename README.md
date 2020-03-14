@@ -2,10 +2,6 @@ Mazza, G. L, Smyth, H. L., Bissett, P. G., Canning, J. R., Eisenberg, I. W., Enk
 
 ----
 
-Kuklinski, M. R., Crowley, D. M., Dishion, T. J., Wilson, M. N., **Pelham III, W. E.,** & Shaw, D. S. (2020). [Supporting strategic investment in social programs: a cost analysis of the Family Check-Up](pdfs/kuklinski_et_al-2020-prevsci.pdf). *Prevention Science.* Available online.
-
-----
-
 **Pelham III, W. E.,** Hanno, P., & Pardini, D. A. (2020). [Can machine learning improve screening for targeted violence and delinquency prevention programs?](pdfs/pelham_et_al-2020-prevsci.pdf). *Prevention Science*, *21*(2), 158-170.
 
 - [Download](si/pelham_et_al-2020-prevsci-si.zip) supplementary material.
@@ -21,6 +17,10 @@ Waxmonsky, J. G., **Pelham III, W. E.,** Campaa, A., Waschbusch, D. A., Li, T., 
 Coles, E. K., **Pelham III, W. E.,** Fabiano. G. A., Gnagy, E. M., Burrows-MacLean, L., Wymbs, B. T., Chacko, A., Walker, K. S., Wymbs, F., Robb, J., Garefino, A., Hoffman, M. T., Massetti, G. M., Page, T. F., Waschbusch, D. A., Waxmonsky, J. G., & Pelham Jr., W. E. (2019). [Randomized trial of first-line behavioral intervention to reduce need for medication in children with ADHD](pdfs/coles_et_al-2019-jccap.pdf). *Journal of Clinical Child and Adolescent Psychology.* Available online.
 
 - [Download](si/coles_et_al-2019-jccap-si.zip) supplementary material.
+
+----
+
+Kuklinski, M. R., Crowley, D. M., Dishion, T. J., Wilson, M. N., **Pelham III, W. E.,** & Shaw, D. S. (2020). [Supporting strategic investment in social programs: a cost analysis of the Family Check-Up](pdfs/kuklinski_et_al-2020-prevsci.pdf). *Prevention Science, 21*(2), 256-267.
 
 ----
 
