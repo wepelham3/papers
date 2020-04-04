@@ -1,5 +1,7 @@
 # 2020
 
+- Gonzalez, O., & **Pelham III, W. E.** (2020). [When does differential item functioning matter for screening? A method for empirical evaluation](pdfs/gonzalez_pelham-2020-assessment.pdf). *Assessment.* Available online. [Supplementary material](si/gonzalez_pelham-2020-assessment-si.zip) supplementary material.
+
 - Mazza, G. L, Smyth, H. L., Bissett, P. G., Canning, J. R., Eisenberg, I. W., Enkavi, A. Z., Gonzalez, O., Kim, S. J., Metcalf, S. A., Muniz, F., Onken, L., **Pelham III, W. E.,** Scherer, E. A., Stoeckel, L. E., Valente, M. J., Xie, H., Poldrack, R. A., Marsch, L. A., & Mackinnon, D. P. (2020). [Correlation database of 60 cross-disciplinary surveys and cognitive tasks assessing self-regulation](pdfs/mazza_et_al-2020-jpa.pdf). *Journal of Personality Assessment.* Available online.
 
 - Waxmonsky, J. G., **Pelham III, W. E.,** Campaa, A., Waschbusch, D. A., Li, T., Marshall, R., Baboscai, L., Humphrey, H., Fallahazad, N., Swanson J. M., Hanc, T., & Pelham Jr., W.E. (2019). [A randomized, controlled trial of interventions for growth suppression associated with CNS stimulants in children with ADHD](pdfs/waxmonsky_et_al-2019-jaacap.pdf). *Journal of American Academy of Child & Adolescent Psychiatry.* Available online. [Supplementary material](si/waxmonsky_et_al-2019-jaacap-si.zip).
