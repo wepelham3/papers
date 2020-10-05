@@ -1,4 +1,4 @@
-# 2020
+# In Press / Available Online
 
 - Gonzalez, O., & **Pelham III, W. E.** (2020). [When does differential item functioning matter for screening? A method for empirical evaluation](pdfs/gonzalez_pelham-2020-assessment.pdf). *Assessment.* Available online. [Supplementary material](si/gonzalez_pelham-2020-assessment-si.zip).
 
@@ -6,7 +6,9 @@
 
 - Waxmonsky, J. G., **Pelham III, W. E.,** Campaa, A., Waschbusch, D. A., Li, T., Marshall, R., Baboscai, L., Humphrey, H., Fallahazad, N., Swanson J. M., Hanc, T., & Pelham Jr., W.E. (2019). [A randomized, controlled trial of interventions for growth suppression associated with CNS stimulants in children with ADHD](pdfs/waxmonsky_et_al-2019-jaacap.pdf). *Journal of American Academy of Child & Adolescent Psychiatry.* Available online. [Supplementary material](si/waxmonsky_et_al-2019-jaacap-si.zip).
 
-- Coles, E. K., **Pelham III, W. E.,** Fabiano. G. A., Gnagy, E. M., Burrows-MacLean, L., Wymbs, B. T., Chacko, A., Walker, K. S., Wymbs, F., Robb, J., Garefino, A., Hoffman, M. T., Massetti, G. M., Page, T. F., Waschbusch, D. A., Waxmonsky, J. G., & Pelham Jr., W. E. (2019). [Randomized trial of first-line behavioral intervention to reduce need for medication in children with ADHD](pdfs/coles_et_al-2019-jccap.pdf). *Journal of Clinical Child and Adolescent Psychology.* Available online. [Supplementary material](si/coles_et_al-2019-jccap-si.zip).
+# 2020
+
+- Coles, E. K., **Pelham III, W. E.,** Fabiano. G. A., Gnagy, E. M., Burrows-MacLean, L., Wymbs, B. T., Chacko, A., Walker, K. S., Wymbs, F., Robb, J., Garefino, A., Hoffman, M. T., Massetti, G. M., Page, T. F., Waschbusch, D. A., Waxmonsky, J. G., & Pelham Jr., W. E. (2020). [Randomized trial of first-line behavioral intervention to reduce need for medication in children with ADHD](pdfs/coles_et_al-2020-jccap.pdf). *Journal of Clinical Child and Adolescent Psychology, 49*(5), 673-687. [Supplementary material](si/coles_et_al-2020-jccap-si.zip).
 
 -  **Pelham III, W. E.,** Hanno, P., & Pardini, D. A. (2020). [Can machine learning improve screening for targeted violence and delinquency prevention programs?](pdfs/pelham_et_al-2020-prevsci.pdf). *Prevention Science*, *21*(2), 158-170. [Supplementary material](si/pelham_et_al-2020-prevsci-si.zip).
 
