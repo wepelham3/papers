@@ -1,8 +1,10 @@
 # In Press / Available Online
 
-- Gonzalez, O., & **Pelham III, W. E.** (2020). [When does differential item functioning matter for screening? A method for empirical evaluation](pdfs/gonzalez_pelham-2020-assessment.pdf). *Assessment.* Available online. [Supplementary material](si/gonzalez_pelham-2020-assessment-si.zip).
+None.
 
 # 2021
+
+- Gonzalez, O., & **Pelham III, W. E.** (2021). [When does differential item functioning matter for screening? A method for empirical evaluation](pdfs/gonzalez_pelham-2021-assessment.pdf). *Assessment, 28*(2): 446-456. [Supplementary material](si/gonzalez_pelham-2021-assessment-si.zip).
 
 - Mazza, G. L, Smyth, H. L., Bissett, P. G., Canning, J. R., Eisenberg, I. W., Enkavi, A. Z., Gonzalez, O., Kim, S. J., Metcalf, S. A., Muniz, F., Onken, L., **Pelham III, W. E.,** Scherer, E. A., Stoeckel, L. E., Valente, M. J., Xie, H., Poldrack, R. A., Marsch, L. A., & Mackinnon, D. P. (2020). [Correlation database of 60 cross-disciplinary surveys and cognitive tasks assessing self-regulation](pdfs/mazza_et_al-2021-jpa.pdf). *Journal of Personality Assessment, 103*(2), 238-245. [Supplementary material](si/mazza_et_al-2021-jpa-si.zip).
 
