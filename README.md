@@ -1,8 +1,6 @@
-# In Press / Available Online
-
-None.
-
 # 2021
+
+- Gonzalez, O., Georgeson, A. R., & **Pelham III, W. E.,** & Fouladi, R. T. (2021). [Estimating the classification consistency of a screening measure and quantifying the impact of measurement bias](pdfs/gonzalez_et_al-2021-psychological_assessment.pdf). *Psychological Assessment*, 1-14. [Supplementary material](si/gonzalez_et_al-2021-psychological_assessment.zip).
 
 - Gonzalez, O., & **Pelham III, W. E.** (2021). [When does differential item functioning matter for screening? A method for empirical evaluation](pdfs/gonzalez_pelham-2021-assessment.pdf). *Assessment, 28*(2): 446-456. [Supplementary material](si/gonzalez_pelham-2021-assessment-si.zip).
 
