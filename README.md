@@ -2,6 +2,8 @@
 
 - Chaarani, B., Hahn, S., Allgaier, N., Adise, S., Owens, M. M., Juliano, A. C., Yuan, D. K., Loso, H., Ivanciu, A., Albaugh, M. D., Dumas, J., Mackey, S., Laurent, J., Ivanova, M., Hagler, D. J., Cornejo, M. D., Hatton, S., ..., **Pelham III, W. E.,** ..., Garavan, H. P. (2021). [Baseline brain function in the preadolescents of the ABCD Study](pdfs/chaarani_et_al-2021-nature_neuroscience.pdf). *Nature Neuroscience,* 1–11. Available online. [Supplementary material](si/chaarani_et_al-2021-nature_neuroscience-si.zip).
 
+- Waxmonsky, J. G., **Pelham III, W. E.,** Baweja, R., Hale, D., & Pelham Jr., W. E. (2021). [Predictors of changes in height, weight, and body mass index after initiation of central nervous system stimulants in children with Attention-Deficit/Hyperactivity Disorder](pdfs/waxmonsky_et_al-2021-jped.pdf). *The Journal of Pediatrics.* Available online.
+
 - Baweja, R., Waschbusch, D. A., & **Pelham III, W. E.,** Pelham Jr., W. E., Waxmonsky, J. G. (2021). [The impact of persistent irritability on the medication treatment of pediatric Attention Deficit Hyperactivity Disorder](pdfs/baweja_et_al-2021-fpsychiatry.pdf). *Frontiers of Psychiatry.* 1-11. Available online. [Supplementary material](si/baweja_et_al-2021-fpsychiatry-si.zip).
 
 - Gonzalez, O., Georgeson, A. R., & **Pelham III, W. E.,** & Fouladi, R. T. (2021). [Estimating the classification consistency of a screening measure and quantifying the impact of measurement bias](pdfs/gonzalez_et_al-2021-psychological_assessment.pdf). *Psychological Assessment*, 1-14. [Supplementary material](si/gonzalez_et_al-2021-psychological_assessment.zip).
