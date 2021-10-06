@@ -1,5 +1,7 @@
 # In Press / Available Online
 
+- Stinson, E. A., Sullivan, R. M., Peteet, B. J., Tapert, S. F., Baker, F. C., Breslin, F. J., Dick, A. S., Gonzalez, M. R., Guillaume, M., Marshall, A. T., McCabe, C. J., **Pelham III, W. E., ** Van Rinsveld, A. M., Sheth, C. S., Sowell, E. R., Wade, N. E., Wallace, A. L., & Lisdahl, K. M. (2021). [Longitudinal impact of childhood adversity on early adolescent mental health during the COVID-19 pandemic in the ABCD Study® cohort: Does race or ethnicity moderate findings?](pdfs/stinson_et_al-2021-biological_psychiatry_gos.pdf). *Biological Psychiatry: Global Open Science.* Available online.
+
 - Chaarani, B., Hahn, S., Allgaier, N., Adise, S., Owens, M. M., Juliano, A. C., Yuan, D. K., Loso, H., Ivanciu, A., Albaugh, M. D., Dumas, J., Mackey, S., Laurent, J., Ivanova, M., Hagler, D. J., Cornejo, M. D., Hatton, S., ..., **Pelham III, W. E.,** ..., Garavan, H. P. (2021). [Baseline brain function in the preadolescents of the ABCD Study](pdfs/chaarani_et_al-2021-nature_neuroscience.pdf). *Nature Neuroscience,* 1–11. Available online. [Supplementary material](si/chaarani_et_al-2021-nature_neuroscience-si.zip).
 
 - Waxmonsky, J. G., **Pelham III, W. E.,** Baweja, R., Hale, D., & Pelham Jr., W. E. (2021). [Predictors of changes in height, weight, and body mass index after initiation of central nervous system stimulants in children with Attention-Deficit/Hyperactivity Disorder](pdfs/waxmonsky_et_al-2021-jped.pdf). *The Journal of Pediatrics.* Available online.
