@@ -12,6 +12,8 @@
 
 # 2021
 
+- Baskin-Sommers, A., Simmons, C., Conley, M. I., Chang, S. A., Estrada, S., Collins, M. A., **Pelham III, W. E.,** Beckford, E., Mitchell-Adams, H., Berrian, N., Tapert, S. F., Gee, D. G., & Casey, B. J. (2021). [Youth civic engagement: lessons from Black Lives Matter](pdfs/baskin-sommers_et_al-2021-pnas.pdf). *Proceedings of the National Academy of Sciences, 118*(41): e2109860118. [Supplementary material](si/baskin-sommers_et_al-2021-pnas-si.zip).
+
 - **Pelham III, W. E.,** Tapert, S. F., Gonzalez, M. R., McCabe, C. J., Lisdahl, K. M., Alzueta, E. R., Baker, F. C., Breslin, F. J., Dick, A. S., Dowling, G. J., Guillaume, M., Hoffman, E., Marshall, A. T., McCandliss, B. D., Sheth, C. S., Sowell, E. R., Thompson, W. K., Van Rinsveld, A. M., Wade, N. E., & Brown, S. A. (2021). [Early adolescent substance use before and during the COVID-19 pandemic: a longitudinal survey in the ABCD Study cohort](pdfs/pelham_et_al-2021-jah.pdf). *Journal of Adolescent Health, 69*(3): 390-397. [Supplementary material](si/pelham_et_al-2021-jah-si.zip).
 
 - Gonzalez, O., & **Pelham III, W. E.** (2021). [When does differential item functioning matter for screening? A method for empirical evaluation](pdfs/gonzalez_pelham-2021-assessment.pdf). *Assessment, 28*(2): 446-456. [Supplementary material](si/gonzalez_pelham-2021-assessment-si.zip).
