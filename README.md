@@ -1,5 +1,7 @@
 # In Press / Available Online
 
+- Stinson, E. A., Sullivan, R. M., Peteet, B. J., Tapert, S. F., Baker, F. C., Breslin, F. J., Dick, A. S., Gonzalez, M. R., Guillaume, M., Marshall, A. T., McCabe, C. J., **Pelham III, W. E., ** Van Rinsveld, A. M., Sheth, C. S., Sowell, E. R., Wade, N. E., Wallace, A. L., & Lisdahl, K. M. (2021). [Longitudinal impact of childhood adversity on early adolescent mental health during the COVID-19 pandemic in the ABCD Study® cohort: Does race or ethnicity moderate findings?](pdfs/stinson_et_al-2021-biological_psychiatry_gos.pdf). *Biological Psychiatry: Global Open Science.* Available online.
+
 - Chaarani, B., Hahn, S., Allgaier, N., Adise, S., Owens, M. M., Juliano, A. C., Yuan, D. K., Loso, H., Ivanciu, A., Albaugh, M. D., Dumas, J., Mackey, S., Laurent, J., Ivanova, M., Hagler, D. J., Cornejo, M. D., Hatton, S., ..., **Pelham III, W. E.,** ..., Garavan, H. P. (2021). [Baseline brain function in the preadolescents of the ABCD Study](pdfs/chaarani_et_al-2021-nature_neuroscience.pdf). *Nature Neuroscience,* 1–11. Available online. [Supplementary material](si/chaarani_et_al-2021-nature_neuroscience-si.zip).
 
 - Waxmonsky, J. G., **Pelham III, W. E.,** Baweja, R., Hale, D., & Pelham Jr., W. E. (2021). [Predictors of changes in height, weight, and body mass index after initiation of central nervous system stimulants in children with Attention-Deficit/Hyperactivity Disorder](pdfs/waxmonsky_et_al-2021-jped.pdf). *The Journal of Pediatrics.* Available online.
@@ -9,6 +11,8 @@
 - Gonzalez, O., Georgeson, A. R., & **Pelham III, W. E.,** & Fouladi, R. T. (2021). [Estimating the classification consistency of a screening measure and quantifying the impact of measurement bias](pdfs/gonzalez_et_al-2021-psychological_assessment.pdf). *Psychological Assessment*, 1-14. [Supplementary material](si/gonzalez_et_al-2021-psychological_assessment.zip).
 
 # 2021
+
+- Baskin-Sommers, A., Simmons, C., Conley, M. I., Chang, S. A., Estrada, S., Collins, M. A., **Pelham III, W. E.,** Beckford, E., Mitchell-Adams, H., Berrian, N., Tapert, S. F., Gee, D. G., & Casey, B. J. (2021). [Youth civic engagement: lessons from Black Lives Matter](pdfs/baskin-sommers_et_al-2021-pnas.pdf). *Proceedings of the National Academy of Sciences, 118*(41): e2109860118. [Supplementary material](si/baskin-sommers_et_al-2021-pnas-si.zip).
 
 - **Pelham III, W. E.,** Tapert, S. F., Gonzalez, M. R., McCabe, C. J., Lisdahl, K. M., Alzueta, E. R., Baker, F. C., Breslin, F. J., Dick, A. S., Dowling, G. J., Guillaume, M., Hoffman, E., Marshall, A. T., McCandliss, B. D., Sheth, C. S., Sowell, E. R., Thompson, W. K., Van Rinsveld, A. M., Wade, N. E., & Brown, S. A. (2021). [Early adolescent substance use before and during the COVID-19 pandemic: a longitudinal survey in the ABCD Study cohort](pdfs/pelham_et_al-2021-jah.pdf). *Journal of Adolescent Health, 69*(3): 390-397. [Supplementary material](si/pelham_et_al-2021-jah-si.zip).
 
