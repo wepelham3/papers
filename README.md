@@ -1,5 +1,7 @@
 # In Press / Available Online
 
+- Guillaume, M., Toomarian, E. Y., Van Rinsveld, A., Baskin-Sommers, A., Dick, A. S., Dowling, G. J., Gonzalez, M. R., Hasak, L., Lisdahl, K. M., Marshall, A. T., Nguyen, Q. T. H., **Pelham III, W. E.,** Pillai, C. C., Sheth, C., Wang, A. M., Tapert, S. F., & McCandliss, B. D. (2022). [Negative impacts of pandemic induced at-home remote learning can be mitigated by parental involvement.](pdfs/guillaume_et_al-2022-fie.pdf). *Frontiers in Education, 7.* [Supplementary material](si/guillaume_et_al-2022-fie-si.zip).
+
 - Marshall, A. T., Hackman, D. A., Baker, F. C., Breslin, F. J., Brown, S. A., Dick, A. S., Gonzalez, M. R., Guillaume, M., Kiss, O., Lisdahl, K. M., McCabe, C. J., **Pelham III, W. E.,** Sheth, C., Tapert, S. F., Van Rinsveld, A., Wade, N. E., & Sowell, E. R. (2022). [Resilience during COVID-19: socioeconomic disadvantage associated with higher positive parent-youth communication and youth-disease prevention](pdfs/marshall_et_al-2022-fph.pdf). *Frontiers of Public Health.* Available online. [Supplementary material](si/marshall_et_al-2022-fph-si.zip).
 
 - **Pelham III, W. E.,** Corbin, W. C., Meier, M. H. (2022). [Validating a brief screening measure for early-onset substance use during adolescence in a diverse, nationwide birth cohort](pdfs/pelham_et_al-2022-addbeh.pdf). *Addictive Behaviors.*. Available online. [Supplementary material](si/pelham_et_al-2022-addbeh-si.zip).
