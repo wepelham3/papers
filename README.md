@@ -1,6 +1,6 @@
 # In Press / Available Online
 
-- **Pelham III, W. E.,** Tapert, S. F., Gonzalez, M. R., Wade, N. E., Lisdahl, K. M., Guillaume, M., Marshall, A. T., Van Rinsveld, A., Dick, A. S., Baker, F. C., Breslin, F. J., Baskin-Sommers, A., Sheth, C. S., & Brown, S. A. (in press). Parental knowledge/monitoring and adolescent substance use: a causal relationship? *Health Psychology.*
+- **Pelham III, W. E.,** Tapert, S. F., Gonzalez, M. R., Wade, N. E., Lisdahl, K. M., Guillaume, M., Marshall, A. T., Van Rinsveld, A., Dick, A. S., Baker, F. C., Breslin, F. J., Baskin-Sommers, A., Sheth, C. S., & Brown, S. A. (2022). [Parental knowledge/monitoring and adolescent substance use: a causal relationship?](pdfs/pelham_et_al-2022-hp.pdf). *Health Psychology.* [Supplementary material](si/pelham_et_al-2022-si.zip).
 
 - Gonzalez, M. R., Brown, S. A., **Pelham III, W. E.,** Bodison, S. C., McCabe, C., Baker, F. C., Baskin-Sommers, A., Dick, A. S., Dowling, G. J., Gebreselassie, S., Guillaume, M., Marshall, A. T., Sheth, C., Sowell, E. R., Van Rinsveld, A., & Tapert, S. F. (2022). [Family well-being during the COVID-19 pandemic: The risks of financial insecurity and coping.](pdfs/gonzalez_et_al-2022-jra.pdf). *Journal of Research on Adolescence.* [Supplementary material](si/gonzalez_et_al-2022-jra-si.zip).
 
