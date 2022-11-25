@@ -1,4 +1,4 @@
-# In Press / Available Online
+# In Press / Not Yet Assigned to Issue
 
 - **Pelham III, W. E.,** Tapert, S. F., Gonzalez, M. R., Wade, N. E., Lisdahl, K. M., Guillaume, M., Marshall, A. T., Van Rinsveld, A., Dick, A. S., Baker, F. C., Breslin, F. J., Baskin-Sommers, A., Sheth, C. S., & Brown, S. A. (2022). [Parental knowledge/monitoring and adolescent substance use: a causal relationship?](pdfs/pelham_et_al-2022-hp.pdf). *Health Psychology.* [Supplementary material](si/pelham_et_al-2022-si.zip).
 
@@ -11,6 +11,8 @@
 - Gonzalez, O., Georgeson, A. R., & **Pelham III, W. E.** (2022). [How accurate and consistent are score-based assessment decisions? A procedure using the linear factor model](pdfs/gonzalez_et_al-2022-assessment.pdf). *Assessment,* 1-11. Available online. [Supplementary material](si/gonzalez_et_al-2022-assessment-si.zip).
 
 # 2022
+
+- Sullivan, R. M., Wade, N. E., Wallace, A. L., Tapert, S. F., **Pelham III, W. E.,** Brown, S. A., … Lisdahl, K. M. (2022). [Substance use patterns in 9 to 13-year-olds: Longitudinal findings from the Adolescent Brain Cognitive Development (ABCD) study](pdfs/sullivan_et_al-2022-dadr.pdf). Drug and Alcohol Dependence Reports, 5, 100120. [Supplementary material](si/sullivan_et_al-2022-dadr-si.zip).
 
 - **Pelham III, W. E.,** Tapert, S. F., Gonzalez, M. R., Guillaume, M., Dick, A. S., Sheth, C. S., Baker, F. C., Baskin-Sommers, A., Marshall, A. T., Lisdahl, K. M., Breslin, F. J., Van Rinsveld, A., & Brown, S. A. (2022). [Parental knowledge/monitoring and adolescents’ depressive symptoms: protective factor or spurious association?](pdfs/pelham_et_al-2022-rcap.pdf) *Research on Child and Adolescent Psychopathology, 50,* 919-931. [Supplementary material](si/pelham_et_al-2022-rcap-si.zip).
 
