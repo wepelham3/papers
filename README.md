@@ -2,13 +2,15 @@
 
 - **Pelham III, W. E.,** Tapert, S. F., Gonzalez, M. R., Wade, N. E., Lisdahl, K. M., Guillaume, M., Marshall, A. T., Van Rinsveld, A., Dick, A. S., Baker, F. C., Breslin, F. J., Baskin-Sommers, A., Sheth, C. S., & Brown, S. A. (2022). [Parental knowledge/monitoring and adolescent substance use: a causal relationship? [pdf]](pdfs/pelham_et_al-2022-hp.pdf). *Health Psychology.* [Supplementary material [zip]](si/pelham_et_al-2022-si.zip). https://doi.org/10.1037/hea0001245
 
-- Gonzalez, M. R., Brown, S. A., **Pelham III, W. E.,** Bodison, S. C., McCabe, C., Baker, F. C., Baskin-Sommers, A., Dick, A. S., Dowling, G. J., Gebreselassie, S., Guillaume, M., Marshall, A. T., Sheth, C., Sowell, E. R., Van Rinsveld, A., & Tapert, S. F. (2022). [Family well-being during the COVID-19 pandemic: The risks of financial insecurity and coping [pdf]](pdfs/gonzalez_et_al-2022-jra.pdf). *Journal of Research on Adolescence.* [Supplementary material [zip]](si/gonzalez_et_al-2022-jra-si.zip). https://doi.org/10.1111/jora.12776
-
 - Gonzalez, O., Georgeson, A. R., & **Pelham III, W. E.,** & Fouladi, R. T. (2021). [Estimating the classification consistency of a screening measure and quantifying the impact of measurement bias [pdf]](pdfs/gonzalez_et_al-2021-psychological_assessment.pdf). *Psychological Assessment*, 1-14. [Supplementary material [zip]](si/gonzalez_et_al-2021-psychological_assessment-si.zip). https://doi.org/10.1177/10731911221113568
 
 - Gause, N., Sales, J. M., Brown, J. L., **Pelham III, W. E.,** Liu, Y., & West, S. G. (2022). *The protective role of secure attachment in the relationship between experiences of childhood abuse, emotion dysregulation and coping, and behavioral and mental health problems among emerging adult Black women: a moderated mediation analysis. Journal of Psychopathology and Clinical Sciences.* https://doi.org/10.1037/abn0000772
 
 - Gonzalez, O., Georgeson, A. R., & **Pelham III, W. E.** (2022). [How accurate and consistent are score-based assessment decisions? A procedure using the linear factor model [pdf]](pdfs/gonzalez_et_al-2022-assessment.pdf). *Assessment,* 1-11. Available online. [Supplementary material [zip]](si/gonzalez_et_al-2022-assessment-si.zip). https://doi.org/10.1037/pas0000938
+
+# 2023
+
+- Gonzalez, M. R., Brown, S. A., **Pelham III, W. E.,** Bodison, S. C., McCabe, C., Baker, F. C., Baskin-Sommers, A., Dick, A. S., Dowling, G. J., Gebreselassie, S., Guillaume, M., Marshall, A. T., Sheth, C., Sowell, E. R., Van Rinsveld, A., & Tapert, S. F. (2022). [Family well-being during the COVID-19 pandemic: The risks of financial insecurity and coping [pdf]](pdfs/gonzalez_et_al-2023-jra.pdf). *Journal of Research on Adolescence, 33*(1): 43-58. [Supplementary material [zip]](si/gonzalez_et_al-2023-jra-si.zip). https://doi.org/10.1111/jora.12776
 
 # 2022
 
