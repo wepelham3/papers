@@ -12,6 +12,8 @@
 
 # 2023
 
+- Lydiard, J., Patel, H., Strugatsky, Y., Thompson, W. K., **Pelham III, W. E.,** & Brown, S. A. (2023). [Prospective associations between cannabis use and depressive symptoms across adolescence and young adulthood [pdf]](pdfs/lydiard_et_al-2023-psychiatry_research.pdf). *Psychiatry Research, 115190.* https://doi.org/10.1016/j.psychres.2023.115190
+
 - Wade, N. E., Sullivan, R. M., Tapert, S. F., Pelham III, W. E., Huestis, M. A. , Lisdahl, K. M., & Haist, F. (2023). [Concordance between substance use self-report and hair analysis in community-based adolescents: hair analysis nearly doubles adolescents identified as having used substances [pdf]](pdfs/wade_et_al-2023-ajdaa.pdf). *American Journal of Drug and Alcohol Abuse, 49*(1): 76-84. [Supplementary material [zip]](si/wade_et_al-2023-ajdaa-si.zip). https://doi.org/10.1080/00952990.2023.2164931
 
 - Gonzalez, M. R., Brown, S. A., **Pelham III, W. E.,** Bodison, S. C., McCabe, C., Baker, F. C., Baskin-Sommers, A., Dick, A. S., Dowling, G. J., Gebreselassie, S., Guillaume, M., Marshall, A. T., Sheth, C., Sowell, E. R., Van Rinsveld, A., & Tapert, S. F. (2022). [Family well-being during the COVID-19 pandemic: The risks of financial insecurity and coping [pdf]](pdfs/gonzalez_et_al-2023-jra.pdf). *Journal of Research on Adolescence, 33*(1): 43-58. [Supplementary material [zip]](si/gonzalez_et_al-2023-jra-si.zip). https://doi.org/10.1111/jora.12776
