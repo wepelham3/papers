@@ -1,5 +1,7 @@
 # In Press / Not Yet Assigned to Issue
 
+- **Pelham III, W. E.,** Tapert, S. F., Zúñiga, M. L., Thompson, W. K., Wade, N. E., Gonzalez, M. R., Patel, H., Baker, F. C., Dowling, G. J., Van Rinsveld, A. M., Baskin-Sommers, A., Kiss, O., & Brown, S. A. (2023). [Pandemic-related changes in the prevalence of early adolescent alcohol and drug use, 2020–2021: Data from a multisite cohort study [pdf]](pdfs/pelham_et_al-2023-jah.pdf). *Journal of Adolescent Health*. [Supplementary material [zip]](si/pelham_et_al-2023-jah-si.zip).  https://doi.org/10.1016/j.jadohealth.2023.02.040
+
 - Kiss, O., Nagata, J. M., de Zambotti, M., Dick, A. S., Marshall, A. T., Sowell, E. R., Van Rinsveld, A., Guillaume, M., **Pelham III, W. E.,** Gonzalez, M. R., Brown, S. A., Dowling, G. J., Lisdahl, K. M., Tapert, S. F., & Baker, F. C. (2023). [Effects of the COVID-19 pandemic on screen time and sleep in early adolescents [pdf]](pdfs/kiss_et_al-2023-hp.pdf). *Health Psychology.* [Supplementary material [zip]](si/kiss_et_al-2023-si.zip) https://doi.org/10.1037/hea0001251
 
 - **Pelham III, W. E.,** Tapert, S. F., Gonzalez, M. R., Wade, N. E., Lisdahl, K. M., Guillaume, M., Marshall, A. T., Van Rinsveld, A., Dick, A. S., Baker, F. C., Breslin, F. J., Baskin-Sommers, A., Sheth, C. S., & Brown, S. A. (2022). [Parental knowledge/monitoring and adolescent substance use: a causal relationship? [pdf]](pdfs/pelham_et_al-2022-hp.pdf). *Health Psychology.* [Supplementary material [zip]](si/pelham_et_al-2022-si.zip). https://doi.org/10.1037/hea0001245
